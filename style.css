@@ -1,0 +1,19 @@
+h1 {
+    color: orange;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2 {
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} 
+table tr {
+    background-image: url(noise.png);
+    color: whitesmoke;
+}
+td,th {
+    border: 1px solid white;
+    padding: 10px;
+}
+table {
+    background-color: #2c2c2c;
+}
